@@ -1,6 +1,6 @@
 print("Vikas")
 print("singh")
-print("agra")
-print("city")
-print("123")
-print(1+2+3)
+
+print("taj mahal")
+
+print("numbers")
